@@ -14,6 +14,7 @@ Raw Data Sources → Bronze Layer → Silver Layer → Gold Layer
 Diagnosis Mapping   Raw Ingestion  Data Enrichment  Analytics
 Patient Admissions   + DQ Checks      + Joins      + Aggregations
 ```
+![pipeline run](pipeline-run.png)
 
 ### Data Flow
 
